@@ -1,0 +1,4 @@
+target/
+level.dat
+level.dat.tmp
+.idea/workspace.xml
